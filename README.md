@@ -17,7 +17,7 @@ A web-based application for renting cars online. This project enables users to b
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgmen)
 
 ---
 
