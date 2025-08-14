@@ -25,6 +25,4 @@ echo "<span style='color:red'> Email already exists .</span>";
 }
 }
 }
-
-
 ?>
